@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "90e08339b9c973319bc6ccff9cc4ce7a"
+build_time: [1524476950, 352334000]
+inputs:
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/MainTwoViewController.swift": [1523602326, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/MainThreeViewController.swift": [1523602326, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/AppDelegate/AppDelegate.swift": [1523601115, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/LogInController/CountryNumberController.swift": [1524470222, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/LogInController/LogInViewController.swift": [1524476950, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/MainFourViewController.swift": [1523602326, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/Controllers/MainViewController.swift": [1523931217, 0]
+  "/Users/xunli/Desktop/\u66F9\u8BB0swift/swift\u9879\u76EE/swift\u9879\u76EE/MainTabBarController/MainTabBarController.swift": [1524476950, 0]
